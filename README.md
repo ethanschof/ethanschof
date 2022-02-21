@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ethanschof
 - 👀 I’m interested in completing Computer Science project with the least amount of pain possible.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on aggregator_group_8
+- 🌱 I’m currently learning Python, SQL, and Java.
+- 💞️ I’m looking to collaborate on whatever the latest school project is
 - 📫 How to reach me: ethanschof@gmail.com
 
 <!---
