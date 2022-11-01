@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanschof
-- 👀 I’m interested in completing Computer Science project with the least amount of pain possible.
-- 🌱 I’m currently learning Python, SQL, and Java.
+- 👀 I’m interested in completing my lastest Computer Science project with the least amount of pain possible.
+- 🌱 I’m currently learning C++ and python.
 - 💞️ I’m looking to collaborate on whatever the latest school project is
 - 📫 How to reach me: ethanschof@gmail.com
 
